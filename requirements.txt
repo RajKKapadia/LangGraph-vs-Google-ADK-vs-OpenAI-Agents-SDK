@@ -1,0 +1,7 @@
+# Python 3.10+
+openai-agents
+langgraph
+langchain-openai
+google-adk
+pydantic
+python-dotenv
