@@ -1,5 +1,5 @@
 [project]
-name = "task-agent-framework-comparison"
+name = "LangGraph-vs-Google-ADK-vs-OpenAI-Agents-SDK"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
