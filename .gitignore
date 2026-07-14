@@ -13,3 +13,5 @@ wheels/
 tasks.json
 .env
 graph.png
+google_adk_app/.adk/
+
